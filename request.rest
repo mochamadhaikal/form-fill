@@ -1,3 +1,6 @@
+GET http://localhost:5000/users/
+
+###
 POST http://localhost:5000/users/
 Content-Type: application/json
 {
@@ -253,7 +256,7 @@ Content-Type: application/json
             "akumulasi_unit": "137.943,58810"
          },
       ]
-    },     
+   },     
    "ringkasan" : {
       "aof_saldo_akhir": 1300,
       "aof_harga_unit": 4509,
@@ -273,4 +276,3 @@ Content-Type: application/json
    }
 }
 ###
-GET 

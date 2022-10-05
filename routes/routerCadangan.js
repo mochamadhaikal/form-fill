@@ -191,3 +191,16 @@ Router.post('/users', async function(req, res, next) {
 
 //    res.status(200).send(data)
 // })
+
+Router.get('/users/:id', async function(req, res, next) {
+   try {
+      const id = req.params.id;
+      const data = users.filter((user, i) => {
+         return user.id == id;
+      })
+      
+      res.status(200).send(data[0].ringkasan)
+   } catch (error) {
+      console.log(error);
+   }
+})

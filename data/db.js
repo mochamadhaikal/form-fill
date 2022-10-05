@@ -11,46 +11,46 @@ const users = [
                "jumlah_unit": "46.455,50780",
                "akumulasi_unit": "182.976,16060"
             },
-            {
-               "tgl_transaksi": "13/08/2021",
-               "jenis_transaksi": "Pengalihan Dana",
-               "jumlah_nominal": "47.405.987,49",
-               "harga_unit": "1.020,46000",
-               "jumlah_unit": "46.455,50780",
-               "akumulasi_unit": "229.431,66840"
-            },
-            {
-               "tgl_transaksi": "13/08/2021",
-               "jenis_transaksi": "Pengalihan Dana",
-               "jumlah_nominal": "47.405.987,49",
-               "harga_unit": "1.020,46000",
-               "jumlah_unit": "46.455,50780",
-               "akumulasi_unit": "137.943,58810"
-            },
-            {
-               "tgl_transaksi": "13/08/2021",
-               "jenis_transaksi": "Saldo Unit Premi Dasar",
-               "jumlah_nominal": "47.405.987,49",
-               "harga_unit": "1.020,46000",
-               "jumlah_unit": "46.455,50780",
-               "akumulasi_unit": "46.455,50780"
-            },
-            {
-               "tgl_transaksi": "13/08/2021",
-               "jenis_transaksi": "Saldo Unit Premi Investasi",
-               "jumlah_nominal": "47.405.987,49",
-               "harga_unit": "1.020,46000",
-               "jumlah_unit": "46.455,50780",
-               "akumulasi_unit": "91.488,08030"
-            },
-            {
-               "tgl_transaksi": "13/08/2021",
-               "jenis_transaksi": "Saldo Akhir Unit",
-               "jumlah_nominal": "47.405.987,49",
-               "harga_unit": "1.020,46000",
-               "jumlah_unit": "46.455,50780",
-               "akumulasi_unit": "137.943,58810"
-            }
+            // {
+            //    "tgl_transaksi": "13/08/2021",
+            //    "jenis_transaksi": "Pengalihan Dana",
+            //    "jumlah_nominal": "47.405.987,49",
+            //    "harga_unit": "1.020,46000",
+            //    "jumlah_unit": "46.455,50780",
+            //    "akumulasi_unit": "229.431,66840"
+            // },
+            // {
+            //    "tgl_transaksi": "13/08/2021",
+            //    "jenis_transaksi": "Pengalihan Dana",
+            //    "jumlah_nominal": "47.405.987,49",
+            //    "harga_unit": "1.020,46000",
+            //    "jumlah_unit": "46.455,50780",
+            //    "akumulasi_unit": "137.943,58810"
+            // },
+            // {
+            //    "tgl_transaksi": "13/08/2021",
+            //    "jenis_transaksi": "Saldo Unit Premi Dasar",
+            //    "jumlah_nominal": "47.405.987,49",
+            //    "harga_unit": "1.020,46000",
+            //    "jumlah_unit": "46.455,50780",
+            //    "akumulasi_unit": "46.455,50780"
+            // },
+            // {
+            //    "tgl_transaksi": "13/08/2021",
+            //    "jenis_transaksi": "Saldo Unit Premi Investasi",
+            //    "jumlah_nominal": "47.405.987,49",
+            //    "harga_unit": "1.020,46000",
+            //    "jumlah_unit": "46.455,50780",
+            //    "akumulasi_unit": "91.488,08030"
+            // },
+            // {
+            //    "tgl_transaksi": "13/08/2021",
+            //    "jenis_transaksi": "Saldo Akhir Unit",
+            //    "jumlah_nominal": "47.405.987,49",
+            //    "harga_unit": "1.020,46000",
+            //    "jumlah_unit": "46.455,50780",
+            //    "akumulasi_unit": "137.943,58810"
+            // }
          ],
          "fipf": [
             {
@@ -246,6 +246,14 @@ const users = [
             {
                "tgl_transaksi": "13/08/2021",
                "jenis_transaksi": "Saldo Akhir Unit",
+               "jumlah_nominal": "47.405.987,49",
+               "harga_unit": "1.020,46000",
+               "jumlah_unit": "46.455,50780",
+               "akumulasi_unit": "137.943,58810"
+            },
+            {
+               "tgl_transaksi": "13/08/2021",
+               "jenis_transaksi": "Saldo Akhir 7",
                "jumlah_nominal": "47.405.987,49",
                "harga_unit": "1.020,46000",
                "jumlah_unit": "46.455,50780",
